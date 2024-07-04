@@ -1,6 +1,28 @@
 Aoba
 Boas vindas ao meu perfil 
 Meu nome é Pedro Gustavo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="https://farm9.staticflickr.com/8622/16590913319_01f4ac6b57.jpg" alt="Morte ao mundo">
 Estou estudando na Alura 
 Estou me desenvolvendo na linguagem JavaScript
