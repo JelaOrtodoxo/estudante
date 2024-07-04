@@ -1,7 +1,8 @@
 Aoba
 Boas vindas ao meu perfil 
 Meu nome é Pedro Gustavo 
-![](link)
+![![image](https://github.com/JelaOrtodoxo/estudante/assets/174741855/ce0dd648-ba82-436b-a604-d3c4488e0a2b)
+](link)
 Estou estudando na Alura 
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
